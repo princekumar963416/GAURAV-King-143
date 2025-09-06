@@ -8,8 +8,8 @@ if "32bit" in bit:
     print(" tool not supported ")
 elif "64bit" in bit:
     os.system("clear")
-    print(" Welcome Alone Tool .... ")
-    import alone64
+    print(" Welcome GAURAV Tool .... ")
+    import GAURAV64
 else:
     os.system("clear")
     print(" unknown arch ")
